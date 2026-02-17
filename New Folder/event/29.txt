@@ -1,0 +1,10 @@
+                    Hầm Bí Mật
+​   Một phần tường trượt ra, để lộ một đường hầm ẩm mốc đang chờ đợi phía sau.
+​   Đặt token Hầm Bí Mật (Secret Passage) vào phòng này. Đổ 3 xúc xắc và đặt token Hầm bí mật thứ hai vào:
+​6  Bất kỳ phòng nào đã có trên bàn chơi.
+​4-5  Bất kỳ phòng nào ở tầng trên (Upper floor).
+​2-3  Bất kỳ phòng nào ở tầng trệt (Ground floor).
+​0-1  Bất kỳ phòng nào ở tầng hầm (Basement).
+​   Bạn có thể sử dụng Hầm Bí Mật ngay lập tức, kể cả khi đã hết lượt di chuyển.
+   Di chuyển từ đầu này sang đầu kia của Hầm Bí Mật được tính là 1 bước đi (bản thân đường hầm không được tính là một ô phòng).
+   Ở các lượt sau, bất kỳ ai cũng có thể sử dụng nó, nhưng không được kết thúc lượt khi đang ở trong đường hầm.

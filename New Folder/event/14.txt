@@ -1,0 +1,8 @@
+                    Những Xác Treo
+   ​Một làn gió lạnh lẽo thổi qua căn phòng.
+Trước mắt bạn, ba người đàn ông đang treo lơ lửng trên những sợi dây thừng sờn cũ. Họ nhìn trừng trừng vào bạn bằng đôi mắt lạnh lẽo, vô hồn.
+   Cả ba đung đưa trong im lặng rồi tan biến thành đám bụi rơi xuống đất. Bạn bắt đầu cảm thấy nghẹt thở.
+​   Bạn phải thực hiện một lượt đổ xúc xắc cho mỗi chỉ số:
+​2+  Chỉ số đó không bị ảnh hưởng.
+​0-1  Mất 1 điểm từ chỉ số đó.
+​   Nếu bạn đổ được kết quả 2+ cho tất cả các lượt đổ trên, hãy nhận thêm 1 điểm vào một chỉ số tùy chọn.

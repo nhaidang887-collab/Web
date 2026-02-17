@@ -1,0 +1,8 @@
+                    Mảnh Vụn Đổ Nát
+​   Vữa trần rơi xuống từ tường và trần nhà.
+   Bạn phải thực hiện một lượt đổ xúc xắc Tốc độ:
+​3+  Bạn né được đống vữa. Nhận 1 Tốc độ.
+​1-2  Bạn bị chôn vùi trong đống đổ nát. Chịu 1 xúc xắc sát thương vật lý.
+​0  Bạn bị chôn vùi trong đống đổ nát. Chịu 2 xúc xắc sát thương vật lý.
+​   Nếu bị chôn vùi, hãy giữ lá bài này. Bạn không thể làm bất cứ điều gì cho đến khi được giải thoát. Một lần trong lượt của một nhà thám hiểm, người đó có thể thực hiện lượt đổ xúc xắc Sức mạnh để giải cứu bạn (bạn cũng có thể tự thực hiện lượt đổ này). Kết quả 4+ sẽ thành công. Sau 3 lần thử không thành công, bạn sẽ tự động thoát ra vào lượt tiếp theo của mình và thực hiện lượt chơi như bình thường.
+   Bỏ lá bài này khi bạn đã được tự do.

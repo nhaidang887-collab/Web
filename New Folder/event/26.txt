@@ -1,0 +1,5 @@
+                    Chiếm Hữu
+​   Một bóng đen tách ra khỏi bức tường. Khi bạn còn đang đứng sững sờ vì kinh hãi, bóng đen đó vây lấy bạn, cái lạnh của nó thấu tận tâm  can.
+​   Bạn phải chọn một đặc điểm bất kỳ và thực hiện lượt đổ xúc xắc cho đặc điểm đó:
+​4+  Bạn kháng cự được sự tha hóa của bóng đen. Tăng thêm 1 điểm cho một đặc điểm tùy chọn.
+​0-3  Bóng đen hút cạn năng lượng của bạn. Đặc điểm đã chọn bị giảm xuống mức thấp nhất (nhưng không rơi vào biểu tượng đầu lâu). Nếu đặc điểm đó vốn đã ở mức thấp nhất, hãy hạ một đặc điểm khác xuống mức thấp nhất.

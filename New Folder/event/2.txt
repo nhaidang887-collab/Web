@@ -1,0 +1,7 @@
+                    Cảnh Tượng Đẫm Máu
+​   Tường của căn phòng này đẫm máu. Từng giọt chảy từ trần nhà xuống vách tường, thấm qua đồ đạc và nhỏ lên giày của bạn. Nhưng chỉ trong chớp mắt, tất cả đều biến mất.
+​   Bạn phải thực hiện một lượt đổ xúc xắc Tỉnh táo:
+​4+  Bạn trấn tĩnh lại được. Nhận 1 Tỉnh táo.
+​2-3  Mất 1 Tỉnh táo.
+​0-1  Nếu có nhà thám hiểm hoặc quái vật nào đang ở trong phòng bạn hoặc phòng bên cạnh, bạn phải tấn công mục tiêu đó (nếu có thể).
+Hãy ưu tiên chọn nhà thám hiểm có Sức mạnh thấp nhất.

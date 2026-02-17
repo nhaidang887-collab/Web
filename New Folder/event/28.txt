@@ -1,0 +1,7 @@
+                    Thối Rữa
+​   Mùi hôi thối trong căn phòng này thật kinh khủng. Nó nồng nặc mùi chết chóc, mùi máu tanh... chẳng khác nào một cái lò mổ.
+​   Bạn phải thực hiện một lượt đổ xúc xắc Tỉnh táo:
+​5+  Chỉ là những mùi hương gây khó chịu thôi, không có gì hơn. Nhận 1 Tỉnh táo.
+​2-4  Mất 1 Sức mạnh.
+​1  Mất 1 Sức mạnh và 1 Tốc độ.
+​0  Bạn đổ gục xuống vì buồn nôn. Mất đồng thời 1 Sức mạnh, 1 Tốc độ, 1 Trí tuệ và 1 Tỉnh táo.

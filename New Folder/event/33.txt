@@ -1,0 +1,7 @@
+                    Bộ Xương
+​   Hình bóng mẹ và con vẫn đang ôm chặt lấy nhau, dù giờ đây chỉ còn là những mảnh xương tàn.
+​   Hãy đặt token Bộ Xương (Skeletons) vào phòng này. Bạn lập tức chịu 1 xúc xắc sát thương tinh thần.
+​   Một lần trong lượt của mình, một nhà thám hiểm có thể thực hiện một lượt đổ xúc xắc Tỉnh táo để tìm kiếm quanh bộ xương:
+​5+  Bạn tìm thấy một vật dụng còn sót lại. Rút một lá bài Vật phẩm và loại bỏ token Bộ Xương khỏi phòng.
+​0-4  Bạn bới tung mọi thứ nhưng chẳng tìm thấy gì ngoài sự kinh hãi. Chịu thêm 1 xúc xắc sát thương tinh thần.
+​   Mỗi kết quả đổ xúc xắc chỉ ảnh hưởng trực tiếp đến nhà thám hiểm thực hiện lượt đổ đó.

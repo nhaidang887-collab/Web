@@ -1,0 +1,5 @@
+                    Mạng Nhện
+   ​Bạn thản nhiên đưa tay gạt mớ mạng nhện... nhưng chúng không rời đi mà bám chặt lấy bạn.    Bạn phải thực hiện một lượt đổ xúc xắc Sức mạnh:
+​4+  Bạn thoát ra. Nhận 1 Sức mạnh và bỏ lá bài này.
+​0-3  Bạn bị kẹt. Giữ lá bài này.
+   Nếu bị kẹt, bạn không thể làm gì cho đến khi được giải thoát. Một lần trong lượt, bất kỳ ai có thể đổ xúc xắc Sức mạnh để giải cứu bạn (bạn cũng có thể tự đổ). Kết quả 4+ thành công, nhưng không nhận 1 Sức mạnh. Bất kỳ ai thất bại sẽ không thể di chuyển trong phần còn lại của lượt đó. Sau 3 lần thất bại, bạn tự động thoát ra ở lượt tiếp theo.

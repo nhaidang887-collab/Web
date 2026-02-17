@@ -1,0 +1,5 @@
+                    Người Làm Vườn
+   Bạn quay lại và nhìn thấy một người đàn ông trong bộ đồ làm vườn. Hắn ta giơ xẻng lên và lao vút tới bạn. Ngay khoảnh khắc hắn gần chạm vào khuôn mặt bạn, hắn ta đột nhiên biển mất, chỉ còn lại những dấu chân đầy bùn đất và không còn gì nữa.
+   Bạn phải thực hiện một lượt đổ xúc xắc Trí tuệ (Một nhà thám hiểm đang ở trong Sân Vườn (Gardens) sẽ đổ ít hơn 2 xúc xắc cho lượt này):
+4+  Bạn tìm thấy thứ gì đó trong bùn. Rút một thẻ Vật phẩm.
+0-3  Người Làm Vườn lại xuất hiện và dùng xẻng đập thẳng vào mặt bạn. Người chơi bên phải bạn sẽ đổ xúc xắc tấn công với Sức mạnh 4 cho Người Làm Vườn. Bạn phòng thủ trước đòn tấn công này như bình thường bằng cách đổ số xúc xắc bằng với Sức mạnh của mình.

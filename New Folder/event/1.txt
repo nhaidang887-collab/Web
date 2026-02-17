@@ -1,0 +1,6 @@
+                    Thực thể Phẫn nộ
+​   Nó hiện ra từ lớp dịch nhầy trên bức tường ngay cạnh bạn.
+   Bạn phải thực hiện một lượt đổ xúc xắc Tốc độ:
+​5+  Bạn thoát khỏi đó. Nhận 1 Tốc độ.
+​2-4  Chịu 1 xúc xắc sát thương tinh thần.
+​0-1  Chịu 1 xúc xắc sát thương tinh thần và 1 xúc xắc sát thương vật lý.

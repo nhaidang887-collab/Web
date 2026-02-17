@@ -1,0 +1,5 @@
+                    Cầu Thang Bí Mật
+​   Một tiếng rít ghê người vang vọng khắp xung quanh. Bạn vừa tìm ra cầu thang bí mật.
+​Hãy đặt một token Cầu Thang Bí Mật (Secret Stairs) vào phòng này và token thứ hai vào  một phòng bất kỳ đã có trên bàn chơi nhưng ở tầng khác.
+​   Việc di chuyển từ đầu này sang đầu kia của Cầu Thang Bí Mật được tính là 1 bước đi (bản thân cầu thang không được tính là một ô phòng).
+​   Bạn có thể bước theo lối cầu thang này ngay lập tức, kể cả khi đã hết lượt di chuyển. Nếu bạn sử dụng nó ngay trong lượt này, hãy rút một lá bài sự kiện tại căn phòng mới mà bạn vừa đến.

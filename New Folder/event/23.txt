@@ -1,0 +1,8 @@
+                    Cầu Trượt Huyền Bí
+​   Nếu bạn đang ở hầm (Basement), sự kiện này sẽ ảnh hưởng đến nhà thám hiểm tiếp theo bên tay trái bạn mà không ở dưới hầm.
+   Bỏ lá bài này nếu tất cả các nhà thám hiểm đều đang ở dưới hầm.
+   ​Sàn nhà sụp đổ ngay dưới chân bạn.
+   Đặt token Cầu Trượt (Slide) vào phòng này, sau đó thực hiện một lượt đổ xúc xắc Sức mạnh để sử dụng Cầu Trượt.
+​5+  Bạn kiểm soát được Cầu Trượt. Hãy đặt mình vào bất kỳ phòng đã khám phá nào ở bất kỳ tầng nào bên dưới Cầu Trượt.
+​0-4  Rút các ô phòng từ chồng bài cho đến khi bạn rút được một phòng tầng hầm. Đặt ô phòng đó vào (Nếu không còn phòng tầng hầm nào trong chồng bài, hãy chọn một phòng tầng hầm đã có trên bàn chơi). Bạn rơi xuống căn phòng đó và chịu 1 xúc xắc sát thương vật lý. Nếu không phải lượt của mình, bạn không được rút thẻ bài cho căn phòng đó.
+   Trong các lượt sau, bất kỳ nhà thám hiểm nào cũng có thể thực hiện lượt đổ này để sử dụng Cầu Trượt.

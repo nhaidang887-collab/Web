@@ -1,0 +1,7 @@
+                    Cánh Cửa Tủ
+​   Cánh cửa tủ đó đang mở... chỉ một khe nhỏ thôi. Chắc chắn phải có thứ gì đó ở bên trong.
+​   Đặt token Tủ Đồ (Closet) vào phòng này.
+   Một lần trong lượt của mình, một nhà thám hiểm có thể đổ 2 xúc xắc để mở Tủ đồ:
+​4+  Rút một thẻ Vật phẩm.
+​2-3  Rút một thẻ Sự kiện.
+​0-1  Rút một thẻ Sự kiện và loại bỏ token Tủ Đồ.

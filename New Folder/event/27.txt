@@ -1,0 +1,6 @@
+                    Tường Xoay
+   ​Bức tường đột ngột xoay chuyển sang một vị trí khác.
+​   Hãy đặt token Công Tắc Tường (Wall Switch) lên một bức tường không có lối thoát hoặc một góc của căn phòng này. Nếu phía bên kia của Công tắc tường chưa có phòng, hãy rút các ô phòng cho đến khi tìm được một phòng phù hợp với tầng này rồi đặt nó vào ngôi nhà. (Nếu không còn phòng nào cho tầng này, hãy bỏ lá bài này). Sau đó, đặt nhà thám hiểm của bạn vào căn phòng mới đó.
+​   Một lần trong lượt của mình, nếu một nhà thám hiểm đang ở một trong hai căn phòng đó, họ có thể thực hiện một lượt đổ xúc xắc Trí tuệ để sử dụng Công Tắc Tường:
+​3+  Nhà thám hiểm tìm thấy công tắc bí mật và đi xuyên qua tường. Hành động này không tính là một bước di chuyển.
+​0-2  Nhà thám hiểm không thể tìm thấy công tắc và không thể đi qua.

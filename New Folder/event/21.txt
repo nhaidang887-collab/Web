@@ -1,0 +1,8 @@
+                    Két Sắt Khóa Chặt
+​   Phía sau một bức chân dung là một chiếc két sắt âm tường.
+Tất nhiên, nó đã bị gài bẫy.
+​Đặt token Két Sắt (Safe) vào phòng này.
+   Một lần trong lượt của một nhà thám hiểm, người đó có thể thực hiện một lượt đổ xúc xắc Trí tuệ để tìm cách mở Két Sắt:
+​5+  Rút 2 thẻ Vật phẩm và loại bỏ token Két Sắt khỏi phòng.
+​2-4  Chịu 1 xúc xắc sát thương vật lý. Két sắt không mở.
+​0-1  Chịu 2 xúc xắc sát thương vật lý. Két sắt không mở.
