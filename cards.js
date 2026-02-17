@@ -1,7 +1,7 @@
 const cards = [
   {
     "type": "event",
-    "name": "A moment of Hope\nKhoảnh Khắc Hy Vọng",
+    "name": "A moment of Hope"<br>"Khoảnh Khắc Hy Vọng",
     "subtitle": null,
     "text": "​   Một cảm giác bình yên đến lạ thường bao trùm căn phòng này. Có vẻ như một thế lực nào đó đang âm thầm chống lại sự tà ác của ngôi nhà.\n   ​Đặt token Chúc Phúc (Blessing) vào phòng này.\nKhi ở trong phòng này, mỗi anh hùng được đổ thêm 1 xúc xắc (tối đa 8) cho tất cả các lượt kiểm tra chỉ số."
   },
