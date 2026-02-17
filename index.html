@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tra cứu Thẻ Bài</title>
+
+<style>
+/* ===== RESET & TẮT DARK MODE ===== */
+* {
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #2b2b2b;
+  color: #000;
+  font-family: "Georgia", serif;
+}
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background: #2b2b2b;
+    color: #000;
+  }
+}
+
+/* ===== HEADER ===== */
+header {
+  text-align: center;
+  padding: 16px;
+  background: #1f1f1f;
+  border-bottom: 3px solid #000;
+}
+header h1 {
+  color: #e8d8a8;
+  margin: 0;
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+
+/* ===== SEARCH ===== */
+.search-box {
+  padding: 12px;
+}
+.search-box input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 2px solid #000;
+}
+
+/* ===== GRID ===== */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  padding: 16px;
+}
+
+/* ===== CARD CHUNG ===== */
+.card {
+  border-radius: 14px;
+  padding: 14px;
+  border: 3px solid #000;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.5);
+  line-height: 1.5;
+}
+
+/* ===== MÀU THEO LOẠI ===== */
+.card.item {
+  background: #d6a15c;
+}
+.card.omen {
+  background: #9bbf9b;
+}
+.card.event {
+  background: #e4cf86;
+}
+
+/* ===== TIÊU ĐỀ ===== */
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+/* ===== SUBTITLE ===== */
+.subtitle {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.subtitle.center {
+  text-align: center;
+}
+
+/* ===== NỘI DUNG ===== */
+.content {
+  font-size: 14px;
+  white-space: pre-line;
+}
+
+/* ===== ẨN THẺ KHÔNG KHỚP SEARCH ===== */
+.card.hidden {
+  display: none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Tra cứu Thẻ Bài</h1>
+</header>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Tìm kiếm thẻ bài...">
+</div>
+
+<div class="cards" id="cardList">
+
+  <!-- ĐIỀM BÁO -->
+  <div class="card omen">
+    <div class="title">Chú Chó</div>
+    <div class="subtitle center">BẠN ĐỒNG HÀNH</div>
+    <div class="content">
+Chú chó ghẻ này có vẻ thân thiện.
+Nhận thêm 1 Sức mạnh và 1 Tỉnh táo ngay lập tức.
+Mất 1 Sức mạnh và 1 Tỉnh táo nếu bạn không còn giữ Chú Chó này nữa.
+    </div>
+  </div>
+
+  <!-- SỰ KIỆN -->
+  <div class="card event">
+    <div class="title">Cánh Cửa Tủ</div>
+    <div class="content">
+Cánh cửa tủ đó đang mở…
+Rút 1 thẻ Sự kiện.
+    </div>
+  </div>
+
+  <!-- VẬT PHẨM -->
+  <div class="card item">
+    <div class="title">Dao Tế Lễ</div>
+    <div class="content">
+Vũ khí dính máu cổ xưa.
+Tăng sát thương khi tấn công.
+    </div>
+  </div>
+
+</div>
+
+<script>
+const searchInput = document.getElementById("search");
+const cards = document.querySelectorAll(".card");
+
+searchInput.addEventListener("input", () => {
+  const keyword = searchInput.value.toLowerCase();
+  cards.forEach(card => {
+    const text = card.innerText.toLowerCase();
+    card.classList.toggle("hidden", !text.includes(keyword));
+  });
+});
+</script>
+
+</body>
+</html>
