@@ -1,0 +1,6 @@
+                    Hộp Nhạc
+​   Một món đồ cổ được chế tác thủ công. Nó phát ra một giai điệu ám ảnh cứ lẩn quẩn mãi trong đầu bạn.
+​   Mỗi lượt một lần, bạn có thể mở hoặc đóng chiếc Hộp Nhạc này.
+   ​Khi Hộp Nhạc đang mở, bất kỳ nhà thám hiểm hoặc quái vật nào có chỉ số Tỉnh táo khi đi vào hoặc bắt đầu lượt chơi trong cùng một phòng đều phải thực hiện một lượt đổ Tỉnh táo với kết quả 4+.
+​   Nếu thất bại, nhà thám hiểm hoặc quái vật đó phải kết thúc lượt đi ngay lập tức vì bị mê hoặc bởi tiếng nhạc.
+​   Nếu bất kỳ nhà thám hiểm hoặc quái vật nào đang cầm Hộp Nhạc mà bị mê hoặc, kẻ đó sẽ làm rơi Hộp Nhạc xuống đất. Nếu lúc bị rơi Hộp Nhạc đang mở, nó vẫn sẽ tiếp tục mở.

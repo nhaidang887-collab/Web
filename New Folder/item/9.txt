@@ -1,0 +1,10 @@
+                    Xúc Xắc Hắc Ám
+​   Bạn có cảm thấy mình may mắn không?
+​   Mỗi lượt một lần, bạn có thể đổ 3 xúc xắc:
+​6  Di chuyển đến vị trí của bất kỳ nhà thám hiểm nào chưa bị lộ diện là kẻ phản bội.
+​5  Di chuyển một nhà thám hiểm khác đang ở cùng phòng sang một căn phòng liền kề.
+​4  Nhận thêm 1 điểm vào một chỉ số thể chất.
+3  Ngay lập tức di chuyển sang một phòng liền kề (không tốn bước di chuyển).
+5  Nhận thêm 1 điểm vào một chỉ số tinh thần.
+​1  Rút một lá bài Sự kiện.
+​0  Giảm tất cả các chỉ số xuống mức cận tử. Sau đó, hãy loại bỏ Xúc Xắc Hắc Ám.

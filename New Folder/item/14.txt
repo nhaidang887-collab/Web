@@ -1,0 +1,8 @@
+                    Túi Cứu Thương 
+​   Một chiếc túi của bác sĩ, đã vơi đi một vài vật dụng quan trọng.
+   ​Mỗi lượt một lần, bạn có thể thực hiện một lượt đổ Trí tuệ để chữa trị cho chính mình hoặc một nhà thám hiểm khác trong cùng một phòng:
+​8+: Nhận thêm tối đa 3 điểm chỉ số thể chất.
+​6-7: Nhận thêm tối đa 2 điểm chỉ số thể chất.
+​4-5: Nhận thêm 1 điểm vào một chỉ số thể chất.
+​0-3: Không có chuyện gì xảy ra.
+​   Bạn không thể dùng Túi Cứu Thương để tăng một chỉ số vượt quá mức khởi đầu của nó.

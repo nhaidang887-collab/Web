@@ -1,0 +1,6 @@
+                  Thuốc Nổ
+   ​Ngòi nổ vẫn chưa được châm... ít nhất là cho đến lúc này.
+​   Thay vì thực hiện đòn tấn công, bạn có thể ném Thuốc Nổ qua một cánh cửa thông sang căn phòng liền kề. Mỗi nhà thám hiểm và quái vật có các chỉ số Sức mạnh và Tốc độ trong căn phòng đó phải thực hiện một lượt đổ Tốc độ:
+​5+  Không chịu sát thương từ Thuốc Nổ.
+​0-4  Phải chịu 4 điểm sát thương vật lý.
+​   Hãy loại bỏ vật phẩm này sau khi sử dụng.

@@ -1,0 +1,8 @@
+                    Súng Lục
+                     ​VŨ KHÍ
+​   Một món vũ khí cũ kỹ nhưng trông đầy uy lực.
+​   Bạn có thể dùng Súng Lục để tấn công bằng chỉ số Tốc độ thay vì Sức mạnh. (Đối thủ của bạn sau đó cũng sẽ dùng Tốc độ để phòng thủ và phải chịu sát thương vật lý nếu thua).
+​   Bạn được đổ thêm 1 xúc xắc cho lượt đổ tấn công bằng Tốc độ (tối đa là 8 xúc xắc).
+​   Với khẩu Súng Lục, bạn có thể tấn công bất kỳ ai trong cùng một phòng hoặc trong tầm mắt (xác định bằng một đường thẳng xuyên qua các cánh cửa).
+​   Nếu bạn tấn công một mục tiêu ở phòng khác và bị thua lượt đổ đó, bạn không phải chịu sát thương phản lại.
+​   Bạn không thể sử dụng vũ khí khác khi đang sử dụng món này.

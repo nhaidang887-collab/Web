@@ -1,0 +1,11 @@
+                    Bình Thuốc
+​   Một lọ thuốc đục ngầu chứa thứ chất lỏng đen kịt bên trong.
+​   Sau khi Câu Chuyện Ma (Haunt) đã bắt đầu, mỗi lượt một lần, bạn có thể đổ 3 xúc xắc và uống thử thứ nước này:
+​6  Chọn một phòng bất kỳ và đưa nhà thám hiểm của bạn đến đó.
+​5  Nhận thêm 2 Sức mạnh và 2 Tốc độ.
+​4  Nhận thêm 2 Trí tuệ và 2 Tỉnh táo.
+​3  Nhận thêm 1 Trí tuệ nhưng bị trừ 1 Sức mạnh.
+​2  Bị trừ 2 Trí tuệ và 2 Tỉnh táo.
+​1  Bị trừ 2 Sức mạnh và 2 Tốc độ.
+​0  Bị trừ 2 điểm ở mỗi chỉ số.
+​   Hãy loại bỏ vật phẩm này sau khi sử dụng.
