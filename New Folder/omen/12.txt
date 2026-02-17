@@ -1,0 +1,5 @@
+                    Bàn Cầu Cơ
+   ​Một chiếc bảng với các chữ cái và con số dùng để gọi hồn người chết.
+​   Trước khi di chuyển trong lượt của mình, bạn có thể xem ô phòng trên cùng  của chồng bài phòng.
+​   Nếu bạn sử dụng Bàn Cầu Cơ sau khi Câu Chuyện Ma (Haunt) đã bắt đầu, kẻ phản bội có thể di chuyển bất kỳ số lượng quái vật nào tiến lại gần bạn thêm 1 ô. (Nếu bạn chính là kẻ phản bội, bạn không cần phải di chuyển chúng).
+​Nếu không có kẻ phản bội, tất cả quái vật sẽ tự động di chuyển tiến lại gần bạn thêm 1 ô.

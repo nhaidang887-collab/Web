@@ -1,0 +1,7 @@
+                   Mặt Nạ
+​   Một chiếc mặt nạ u sầu để che giấu ý định của bạn.
+​   Mỗi lượt một lần, bạn có thể thực hiện một lượt đổ xúc xắc Tỉnh táo để sử dụng Mặt Nạ:
+​4+  Bạn có thể đeo vào hoặc tháo Mặt Nạ ra:
+​Nếu bạn đeo Mặt Nạ: Nhận thêm 2 Trí tuệ và mất 2 Tỉnh táo.
+​Nếu bạn tháo Mặt Nạ: Nhận thêm 2 Tỉnh táo và mất 2 Trí tuệ.
+​0-3  Bạn không thể sử dụng Mặt Nạ trong lượt này.
